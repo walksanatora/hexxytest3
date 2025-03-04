@@ -1,0 +1,13 @@
+name = "CC: Androids"
+filename = "cc-androids-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZJAYwpFc/versions/GEMYgmf8/cc-androids-1.1.0.jar"
+hash-format = "sha1"
+hash = "c0a7110e7c188af6cfb404dc6e00a8fa9f3f8729"
+
+[update]
+[update.modrinth]
+mod-id = "ZJAYwpFc"
+version = "GEMYgmf8"

@@ -1,13 +1,13 @@
 name = "HexTweaks"
-filename = "hextweaks-5.3.0.jar"
+filename = "hextweaks-5.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pim6pG9O/versions/mECMp6kK/hextweaks-5.3.0.jar"
+url = "https://cdn.modrinth.com/data/pim6pG9O/versions/U2DLggkz/hextweaks-5.3.2.jar"
 hash-format = "sha1"
-hash = "b134d8df07a4bb288292ffa4ee85239cd81ed869"
+hash = "06d199d1b06718ab0cbd2d118ad629a93003198b"
 
 [update]
 [update.modrinth]
 mod-id = "pim6pG9O"
-version = "mECMp6kK"
+version = "U2DLggkz"
